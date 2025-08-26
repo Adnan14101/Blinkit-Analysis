@@ -31,6 +31,6 @@ Top-Selling Products & Categories
 Python used for data analysis and visualization of trends.
 Summarized workflow & results in PPT and Word documentation.
 
-Name :- Adnan Ahamad
-Contact :- adnan14101@gmail.com
-Linkedin :-https://www.linkedin.com/in/adnanahamad
+# Name :- Adnan Ahamad
+# Contact :- adnan14101@gmail.com
+# Linkedin :-https://www.linkedin.com/in/adnanahamad
